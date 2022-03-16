@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="agenda"> <!--elemento padre, que a su vez es un elemento complejo, que contiene un hijo llamado persona-->
+    <xs:complexType >
+    <xs:sequence>
+      <xs:element name="persona"  minOccurs="1" maxOccurs="unbounded"> <!--elemento hijo y a su vez complejo, le pongo cardinalidad, que como minimo puede haber 0 contactos y como maximo unbuonded si quiero que sea ilimitada-->
+        <xs:complexType>
+          <xs:sequence>
+              <xs:element name="nombre" type="xs:string"/>
+              <xs:element name="edad">
+                  <xs:simpleType>
+                      <xs:restriction base="xs:integer">
+                          <xs:minExclusive value="0"/>
+                          <xs:maxExclusive value="91"/>
+                      </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="numero" type="xs:integer" use="required"></xs:attribute>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+
+

@@ -1,0 +1,88 @@
+*   [33mcommit db12b529656d19359ed7196c433620e1891ff2ec[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m[32m\[m  Merge: 4d3212a 7bdb489
+[31m|[m [32m|[m Author: BarbaraMedac <bsr0001@alu.medac.es>
+[31m|[m [32m|[m Date:   Wed Mar 16 14:01:13 2022 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'main' of https://github.com/BarbaraMedac/PrimerRepositorios
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 7bdb489fd65fad4e464f0f42398769076e4ec4f6[m
+[31m|[m [32m|[m Author: Daniel <dma0006@alu.medac.es>
+[31m|[m [32m|[m Date:   Wed Mar 16 13:43:14 2022 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Arreglando lo de Kevin parte 9
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 4d3212ad7e113c5f200e857f85815587f7dcd1be[m
+[32m|[m[32m/[m  Author: BarbaraMedac <bsr0001@alu.medac.es>
+[32m|[m   Date:   Wed Mar 16 14:01:07 2022 +0100
+[32m|[m   
+[32m|[m       lo que yo quiera
+[32m|[m   
+*   [33mcommit 439c3e333fd2846eb335e5730a6d58102da9dd95[m
+[33m|[m[34m\[m  Merge: 76710eb f1ede3b
+[33m|[m [34m|[m Author: Kevin <krb0001@alu.medac.es>
+[33m|[m [34m|[m Date:   Wed Mar 16 13:40:12 2022 +0100
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge branch 'main' of https://github.com/BarbaraMedac/PrimerRepositorios
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit f1ede3b0006cd0932de29864857be8942ed8c5f9[m
+[33m|[m [34m|[m Author: Daniel <dma0006@alu.medac.es>
+[33m|[m [34m|[m Date:   Wed Mar 16 13:39:18 2022 +0100
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     HTML
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit 76710eb1704cef8153f0f3f5d9134fa273d3f804[m
+[35m|[m[34m\[m[34m|[m Merge: 96a1eb7 e99526a
+[35m|[m [34m|[m Author: Kevin <krb0001@alu.medac.es>
+[35m|[m [34m|[m Date:   Wed Mar 16 13:36:35 2022 +0100
+[35m|[m [34m|[m 
+[35m|[m [34m|[m     aniadi pepoclown
+[35m|[m [34m|[m   
+[35m|[m *   [33mcommit e99526a37afd68e7a69b39c7a35352b3d9819f88[m
+[35m|[m [1;31m|[m[1;32m\[m  Merge: a9dfe50 9c13180
+[35m|[m [1;31m|[m [1;32m|[m Author: Daniel <dma0006@alu.medac.es>
+[35m|[m [1;31m|[m [1;32m|[m Date:   Wed Mar 16 13:28:54 2022 +0100
+[35m|[m [1;31m|[m [1;32m|[m 
+[35m|[m [1;31m|[m [1;32m|[m     Merge branch 'main' of https://github.com/BarbaraMedac/PrimerRepositorios
+[35m|[m [1;31m|[m [1;32m|[m 
+[35m|[m * [1;32m|[m [33mcommit a9dfe508fd0530cce784bf91cf5bd5e3de4ac00c[m
+[35m|[m [1;32m|[m [1;32m|[m Author: Daniel <dma0006@alu.medac.es>
+[35m|[m [1;32m|[m [1;32m|[m Date:   Wed Mar 16 13:23:02 2022 +0100
+[35m|[m [1;32m|[m [1;32m|[m 
+[35m|[m [1;32m|[m [1;32m|[m     Cambio Dani
+[35m|[m [1;32m|[m [1;32m|[m   
+* [1;32m|[m [1;32m|[m   [33mcommit 96a1eb761ab64da5a2c79f4be4a0b627fa83db8e[m
+[1;33m|[m[1;32m\[m [1;32m\[m [1;32m\[m  Merge: e70525b 9c13180
+[1;33m|[m [1;32m|[m [1;32m|[m[1;32m/[m  Author: Kevin <krb0001@alu.medac.es>
+[1;33m|[m [1;32m|[m[1;32m/[m[1;32m|[m   Date:   Wed Mar 16 13:34:05 2022 +0100
+[1;33m|[m [1;32m|[m [1;32m|[m   
+[1;33m|[m [1;32m|[m [1;32m|[m       añadi BABALACHUYA
+[1;33m|[m [1;32m|[m [1;32m|[m 
+[1;33m|[m * [1;32m|[m [33mcommit 9c13180410263720b24dfd6763becdccdb43d9b2[m
+[1;33m|[m [1;32m|[m[1;32m/[m  Author: BarbaraMedac <bsr0001@alu.medac.es>
+[1;33m|[m [1;32m|[m   Date:   Wed Mar 16 13:21:40 2022 +0100
+[1;33m|[m [1;32m|[m   
+[1;33m|[m [1;32m|[m       añadir linea en REDME
+[1;33m|[m [1;32m|[m 
+* [1;32m|[m [33mcommit e70525ba00e3f1366ec9fd94ba5804427c9de3b5[m
+[1;32m|[m[1;32m/[m  Author: Kevin <krb0001@alu.medac.es>
+[1;32m|[m   Date:   Wed Mar 16 13:22:23 2022 +0100
+[1;32m|[m   
+[1;32m|[m       añadi BABALACHUYA
+[1;32m|[m 
+* [33mcommit ef9803d4073d733f7e536083ea8dd50d8eaf21b7[m
+[1;34m|[m Author: BarbaraMedac <bsr0001@alu.medac.es>
+[1;34m|[m Date:   Wed Mar 16 12:54:16 2022 +0100
+[1;34m|[m 
+[1;34m|[m     prueba subida
+[1;34m|[m 
+* [33mcommit 92d666302e5f02124b2cba671d678bd82d96afa3[m
+[1;34m|[m Author: BarbaraMedac <bsr0001@alu.medac.es>
+[1;34m|[m Date:   Wed Mar 9 14:58:50 2022 +0100
+[1;34m|[m 
+[1;34m|[m     primer commit
+[1;34m|[m 
+* [33mcommit 5e697f8b44a901176bd906bd322d39ad97239206[m
+  Author: BarbaraMedac <101264610+BarbaraMedac@users.noreply.github.com>
+  Date:   Wed Mar 9 14:16:23 2022 +0100
+  
+      Initial commit
